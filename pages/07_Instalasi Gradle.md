@@ -11,4 +11,4 @@ https://docs.gradle.org/current/userguide/installation.html
 
 <span class='text-yellow text-xl'>Gunakan Versi 7.3</span>
 
-Opsional: Install juga extension Gradle untuk VSCode
+<i>Opsional: Install juga extension Gradle untuk VSCode</i>
