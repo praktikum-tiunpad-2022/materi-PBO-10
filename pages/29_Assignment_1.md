@@ -2,7 +2,7 @@
 layout: center
 ---
 
-# Assignment 9 Soal 1
+# Assignment 10 - 1
 
  <br>
 
@@ -12,7 +12,7 @@ layout: center
 
  <br>
 
-# Assignment 9 Soal 2
+# Assignment 10 - 2
 
  <br>
 
